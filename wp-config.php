@@ -26,10 +26,10 @@ define( 'DB_NAME', 'ouaoushop_swecom' );
 define( 'DB_USER', 'ouaoushop_swecom' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'Swecom@2022' );
+define( 'DB_PASSWORD', 'Swecom#2320' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'wpdb' );
 
 /** define( 'WP_ALLOW_REPAIR', true ); */
 
